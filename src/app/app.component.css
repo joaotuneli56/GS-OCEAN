@@ -1,16 +1,9 @@
-
-body {
-  background-image: url('/images/pexels-pawelkalisinski-1076758.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-}
 .myBackground{
   background-image: url(../images/background-oceano.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed; /* Mantém a imagem de fundo fixa durante o scroll */
-  min-height: 100vh; /* Garante que a altura mínima seja 100% da altura da janela */
+  min-height: 10a0vh; /* Garante que a altura mínima seja 100% da altura da janela */
 }
 .content-container {
   padding: 20px;

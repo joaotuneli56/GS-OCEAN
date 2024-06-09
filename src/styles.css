@@ -1,0 +1,10 @@
+.myBackground{
+  background-image: url(.//images/background-oceano.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* Mantém a imagem de fundo fixa durante o scroll */
+  min-height: 10a0vh; /* Garante que a altura mínima seja 100% da altura da janela */
+}
+.content-container {
+  padding: 20px;
+}
