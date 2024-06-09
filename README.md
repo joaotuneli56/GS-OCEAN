@@ -41,3 +41,16 @@ ng serve
 ```
 
 ## Prints da aplicação rodando
+
+### `Print do home da aplicação`.
+
+ ![alt text](imagens/print_home.png)
+
+### `Print da pagina Ocean Data Explorer`.
+
+ ![alt text](imagens/print_ocean_data_explorer.png)
+
+### `Print da usabilidade dos filtros`.
+**OBS:** Estamos Filtrando por região Ártico
+
+ ![alt text](imagens/print_filtro_funcionando.png)
