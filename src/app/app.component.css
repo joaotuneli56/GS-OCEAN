@@ -5,3 +5,9 @@ body {
   background-repeat: no-repeat;
   background-position: center center;
 }
+.myBackground{
+  background-image: url(../images/background-oceano.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
