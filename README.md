@@ -1,4 +1,4 @@
-# GsOcean
+# Global Solution - MICROSERVICE AND WEB ENGINEERING
 Esse projeto utiliza [Angular CLI](https://github.com/angular/angular-cli) version 17.3.6.
 
 ## Integrantes
